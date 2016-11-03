@@ -1,6 +1,6 @@
 <ol>
 ##<li> Judul </li>
-### Pembayaran dan Nilai
+### Pembayaran
  
 ##<li> Screenshot Aplikasi </li>
 ![6](https://cloud.githubusercontent.com/assets/22027035/19953011/248b58ea-a19c-11e6-82d2-8f052ce1857f.PNG)
